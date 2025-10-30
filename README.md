@@ -111,9 +111,6 @@ ollama run nwokikeonyeka/igbo-phi3-translator "Translate this English sentence t
 ./main -m ./phi-3-mini-4k-instruct.Q4_K_M.gguf -n 128 -p "<s>[INST] Translate this English sentence to Igbo: 'Hello, how are you?' [/INST]"
 ```
 
-```
-```
-
 ---
 
 ## Project Methodology: The "Colab Relay Race"
